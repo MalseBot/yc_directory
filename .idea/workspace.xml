@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="recover and save" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ptO6WvUgAdhIa1lKQttwGyy3G0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/WORK/Projects/yc_directory",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "ts.external.directory.path": "D:\\WORK\\Projects\\yc_directory\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WORK\Projects\yc_directory\sanity\schemaTypes" />
+      <recent name="D:\WORK\Projects\yc_directory\components" />
+      <recent name="D:\WORK\Projects\yc_directory\app" />
+      <recent name="D:\WORK\Projects\yc_directory" />
+      <recent name="D:\WORK\Projects\yc_directory\app\api\auth\[...nextauth]" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="" />
+      <created>1733581730390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733581730390</updated>
+      <workItem from="1733581731991" duration="2341000" />
+      <workItem from="1733585030885" duration="565000" />
+      <workItem from="1733585621826" duration="1552000" />
+      <workItem from="1733594615555" duration="7134000" />
+      <workItem from="1733603857352" duration="2505000" />
+      <workItem from="1733618959114" duration="2060000" />
+      <workItem from="1733621901858" duration="3734000" />
+      <workItem from="1733660816809" duration="1225000" />
+      <workItem from="1733737152499" duration="2056000" />
+      <workItem from="1735989182816" duration="1139000" />
+      <workItem from="1736027743864" duration="2168000" />
+      <workItem from="1736029999530" duration="4743000" />
+      <workItem from="1736096569859" duration="4821000" />
+      <workItem from="1736107738752" duration="4957000" />
+      <workItem from="1736119511602" duration="1135000" />
+      <workItem from="1736186807487" duration="8477000" />
+      <workItem from="1736234471982" duration="602000" />
+      <workItem from="1736264988051" duration="1767000" />
+      <workItem from="1736368833706" duration="2241000" />
+      <workItem from="1736380130778" duration="21000" />
+      <workItem from="1736380316784" duration="6632000" />
+    </task>
+    <task id="LOCAL-00001" summary="npx next-app">
+      <option name="closed" value="true" />
+      <created>1733585929721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733585929721</updated>
+    </task>
+    <task id="LOCAL-00002" summary="auth code">
+      <option name="closed" value="true" />
+      <created>1733619176661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733619176661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="auth code">
+      <option name="closed" value="true" />
+      <created>1736370407233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736370407233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="recover and save">
+      <option name="closed" value="true" />
+      <created>1736387044200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736387044200</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="npx next-app" />
+    <MESSAGE value="auth code" />
+    <MESSAGE value="recover and save" />
+    <option name="LAST_COMMIT_MESSAGE" value="recover and save" />
+  </component>
+</project>

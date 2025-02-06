@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="project building" />
+    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="project building">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/startup/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/startup/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StartupCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StartupForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/action.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +29,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MalseBot"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/MalseBot/yc_directory.git",
@@ -123,7 +136,7 @@
       <workItem from="1736614846866" duration="5282000" />
       <workItem from="1736645746915" duration="4232000" />
       <workItem from="1736679977888" duration="8085000" />
-      <workItem from="1738802814079" duration="5418000" />
+      <workItem from="1738802814079" duration="10451000" />
     </task>
     <task id="LOCAL-00001" summary="npx next-app">
       <option name="closed" value="true" />
@@ -173,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738808208743</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="project building">
+      <option name="closed" value="true" />
+      <created>1738808434966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738808434966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

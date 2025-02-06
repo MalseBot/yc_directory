@@ -7,24 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="recover and save">
-      <change afterPath="$PROJECT_DIR$/app/(root)/startup/create/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/user/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/StartupForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/UserStartups.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/validation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next-auth.d.ts" afterDir="false" />
+    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="project building">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/StartupCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/startup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/schemaTypes/startup.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +119,7 @@
       <workItem from="1736614846866" duration="5282000" />
       <workItem from="1736645746915" duration="4232000" />
       <workItem from="1736679977888" duration="8085000" />
-      <workItem from="1738802814079" duration="3852000" />
+      <workItem from="1738802814079" duration="5100000" />
     </task>
     <task id="LOCAL-00001" summary="npx next-app">
       <option name="closed" value="true" />
@@ -169,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736387044200</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project building">
+      <option name="closed" value="true" />
+      <created>1738807097610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738807097610</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +197,7 @@
     <MESSAGE value="npx next-app" />
     <MESSAGE value="auth code" />
     <MESSAGE value="recover and save" />
-    <option name="LAST_COMMIT_MESSAGE" value="recover and save" />
+    <MESSAGE value="project building" />
+    <option name="LAST_COMMIT_MESSAGE" value="project building" />
   </component>
 </project>

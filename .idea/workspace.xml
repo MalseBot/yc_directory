@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="recover and save" />
+    <list default="true" id="4df3fe47-f9b4-4b5a-940e-d9d1759293db" name="Changes" comment="recover and save">
+      <change afterPath="$PROJECT_DIR$/app/(root)/startup/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/user/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StartupForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UserStartups.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-auth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StartupCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/startup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/schemaTypes/startup.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,22 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/WORK/Projects/yc_directory",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "ts.external.directory.path": "D:\\WORK\\Projects\\yc_directory\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WORK/Projects/yc_directory&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WORK\\Projects\\yc_directory\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -103,7 +124,18 @@
       <workItem from="1736264988051" duration="1767000" />
       <workItem from="1736368833706" duration="2241000" />
       <workItem from="1736380130778" duration="21000" />
-      <workItem from="1736380316784" duration="6632000" />
+      <workItem from="1736380316784" duration="6864000" />
+      <workItem from="1736389066371" duration="3000" />
+      <workItem from="1736414972429" duration="784000" />
+      <workItem from="1736507429993" duration="1420000" />
+      <workItem from="1736524424462" duration="1747000" />
+      <workItem from="1736528152407" duration="734000" />
+      <workItem from="1736532062038" duration="3899000" />
+      <workItem from="1736598680473" duration="9158000" />
+      <workItem from="1736614846866" duration="5282000" />
+      <workItem from="1736645746915" duration="4232000" />
+      <workItem from="1736679977888" duration="8085000" />
+      <workItem from="1738802814079" duration="3852000" />
     </task>
     <task id="LOCAL-00001" summary="npx next-app">
       <option name="closed" value="true" />

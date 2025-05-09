@@ -3,8 +3,10 @@
 import {auth} from "@/auth";
 import slugify from "slugify";
 import {writeClient} from "@/sanity/lib/write-client";
-
-export const createPitch = async (stats:any, form:FormData,pitch:string ) => {
+export const createPitch = async (
+    stats: unknown,
+    form: FormData,
+    pitch: string) => {
     const session =await auth()
 
 

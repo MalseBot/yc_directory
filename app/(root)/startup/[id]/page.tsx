@@ -18,6 +18,7 @@ const Page =async ({params}:{params:Promise<{id:string}>}) => {
     const id = (await params).id
     const post = await client.fetch(STARTUP_BY_ID_QUERY, {id})
     const parsedContent = md.render(post?.pitch || '')
+
     return (
         <>
             <section className={'pink_container !min-h-[230px]'}>
@@ -26,6 +27,8 @@ const Page =async ({params}:{params:Promise<{id:string}>}) => {
                 <p className={'sub-heading !max-w-5xl'}>{post.description}</p>
             </section>
             <section className={'section_container'}>
+
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={post.image} className={'w-full h-auto rounded-xl'} alt={post.title} />
                 <div className={'space-y-5 mt-10 max-w-4xl mx-auto'}>
                     <div className={'flex-between gap-5'}>

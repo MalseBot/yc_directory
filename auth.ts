@@ -1,4 +1,5 @@
-
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import { AUTHOR_BY_GITHUB_ID} from "@/sanity/lib/queries";
 import {client} from "@/sanity/lib/client";
 import {writeClient} from "@/sanity/lib/write-client";

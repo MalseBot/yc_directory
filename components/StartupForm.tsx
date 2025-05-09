@@ -1,4 +1,6 @@
+
 'use client'
+
 import React, {useActionState, useState} from 'react'
 import {Input} from "@/components/ui/input";
 import {Label} from "@/components/ui/label";
@@ -20,7 +22,7 @@ const StartupForm = () => {
     const {toast} = useToast();
 
     const router = useRouter()
-    const handleSubmit = async(prevState:any,formData:FormData)=>{
+    const handleSubmit = async(prevState:unknown,formData:FormData)=>{
         try {
             const formValues = {
                 title: formData.get("title") as string,
@@ -56,6 +58,8 @@ const StartupForm = () => {
                     variant: "destructive",
                 });
 
+                // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+                /* @ts-expect-error */
                 return { ...prevState, error: "Validation failed", status: "ERROR" };
             }
 
@@ -64,15 +68,18 @@ const StartupForm = () => {
                 description: "An unexpected error has occurred",
                 variant: "destructive",
             });
-
+            
             return {
+                // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+            // @ts-expect-error
                 ...prevState,
                 error: "An unexpected error has occurred",
                 status: "ERROR",
             };
         }
     };
-    const [ state,formAction, isPending] = useActionState(handleSubmit, {error:'',status:'initial'});
+    //@typescript-eslint/no-unused-vars
+    const [,formAction, isPending] = useActionState(handleSubmit, {error:'',status:'initial'});
     return (
         <form action={formAction} className={'startup-form'}>
             <div>

@@ -33,10 +33,6 @@ const workSans = localFont({
         weight:'300',
         style:'normal',
     },{
-        path:'./fonts/WorkSans-light.ttf',
-        weight:'200',
-        style:'normal',
-    },{
         path:'./fonts/WorkSans-ExtraLight.ttf',
         weight:'100',
         style:'normal',

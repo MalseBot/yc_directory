@@ -6,7 +6,6 @@ import {client} from "@/sanity/lib/client";
 import Image from "next/image";
 import UserStartups from "@/components/UserStartups";
 import {StartupCardSkeleton} from "@/components/StartupCard";
-export const experimental_ppr=true
 
 const Page =async ({params}:{params:Promise<{id:string}>}) => {
     const id = (await params).id

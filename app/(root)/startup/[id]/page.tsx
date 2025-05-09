@@ -11,7 +11,6 @@ import {Skeleton} from "@/components/ui/skeleton";
 
 const md = markdownIt()
 
-export const experimental_ppr=true
 
 
 const Page =async ({params}:{params:Promise<{id:string}>}) => {
